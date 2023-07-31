@@ -6,4 +6,4 @@ This project is for speedrunners. The principle is simple. You can teleport to t
 
 # Authors
 
-- @Skyrimfus
+- [@Skyrimfus](https://github.com/Skyrimfus)
