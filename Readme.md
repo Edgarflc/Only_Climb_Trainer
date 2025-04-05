@@ -1,4 +1,4 @@
-# OnlyUP Trainer
+# OnlyClimb Trainer
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE.md) [![Github All Releases](https://img.shields.io/github/downloads/Edgarflc/Only_Climb_Trainer/total.svg)]()
 
